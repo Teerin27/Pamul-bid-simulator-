@@ -1,4 +1,4 @@
-# Pamul simulator
+# Bidding simulator
 
 > A 2D web-based abandoned storage auction game. Play online with up to 6 friends per room.
 
